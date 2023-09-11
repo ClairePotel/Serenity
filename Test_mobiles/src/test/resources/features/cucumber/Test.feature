@@ -1,5 +1,5 @@
 # language: fr
-
+//J'ai pu modifier ton fichier hahahaha
 Fonctionnalité: Connexion au site Amazon via un compte client
   Contexte: un utilisateur accepte les cookies
     Soit un utilisateur sur la page des cookies du site "https://www.amazon.fr"

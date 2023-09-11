@@ -1,6 +1,4 @@
 # language: fr
-# //J'ai pu modifier ton fichier hahahaha
-# Cher Dorian, c'est un # pour mettre un commentaire !
 
 Fonctionnalité: Connexion au site Amazon via un compte client
   Contexte: un utilisateur accepte les cookies
